@@ -158,10 +158,3 @@ Navigate directly to individual summary sheets for deeper insights:
 | **D** | Below 60% |
 
 ---
-
-## 🏫 About
-* **School:** ABC School
-* **Class:** 10
-* **Sections:** A, B, C
-* **Subjects:** Mathematics, Science, English, Hindi, Social Science
-* **Total Records:** 503 students
