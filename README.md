@@ -1,7 +1,7 @@
 # STUDENT-RESULT-ANALYSIS-AND-REPORT-CARD-GENERATOR
 Project useing advance Excel to generate report card and analysis performance.
 
-# 📊 ABC School — Student Result Analysis Dashboard
+# 📊 Student Result Analysis Dashboard
 
 An interactive Excel-based student academic performance analysis system covering 503 students across Sections A, B, and C, with automated report card generation, pivot-driven dashboards, and subject-wise insights.
 
@@ -112,8 +112,8 @@ The workbook contains the following sheets:
 * Go to the `vlookup_page` sheet.
 * Enter a Roll Number in the designated cell (e.g., `S001`).
 * The report card will auto-populate with the student's name, section, rank, percentage, subject-wise marks, grade, and teacher's remarks.
-<img width="1016" height="718" alt="Screenshot 2026-05-19 224649" src="https://github.com/user-attachments/assets/f2a9b75c-ee23-4c72-9805-842bcd2830d9" />
-
+  
+<img width="1039" height="699" alt="Screenshot 2026-05-26 085259" src="https://github.com/user-attachments/assets/3fbd63d2-ffe1-48aa-bac0-e1129d8e5eb3" />
 
 ### 2. Explore the Dashboard
 * Open the `dashbord` sheet.
@@ -122,8 +122,7 @@ The workbook contains the following sheets:
   * Section-wise Subject Averages
   * Class Summary
   * Result Card Generator
- <img width="1237" height="755" alt="Screenshot 2026-05-19 223710" src="https://github.com/user-attachments/assets/3c487a5d-fe4c-42ad-b5cd-b612943ae160" />
-
+ <img width="1329" height="742" alt="Screenshot 2026-05-26 085348" src="https://github.com/user-attachments/assets/915b9717-8090-4bc7-92d7-38ebf6f4318e" />
 
 ### 3. Explore Pivot Summaries
 Navigate directly to individual summary sheets for deeper insights:
